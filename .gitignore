@@ -1,0 +1,13 @@
+# idea iml
+.idea
+
+# gradle iml
+gradle
+.gradle
+
+# output
+target
+out
+
+# log
+*.log
